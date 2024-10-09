@@ -1,0 +1,20 @@
+{
+    "basic_details": {
+        "name": "ameera",
+        "age": "24"
+    },
+    "education_details": {
+        "10th_grade": "sacred, 2015",
+        "12th_grade": "heart, 2017",
+        "college": "rit kottayam"
+    },
+    "work_details": {
+        "work_exp1": "keyvalue, engineer, 2",
+        "work_exp2": ""
+    },
+    "family_details": {
+        "father_name": "ismail",
+        "mother_name": "sairabanu",
+        "spouse_name": "shariq"
+    }
+}
