@@ -27,7 +27,7 @@ class WorkDetails(BaseModel):
     
 class FamilyDetails(BaseModel):
     fathers_name: str
-    mothers_namee: str
+    mothers_name: str
     spouse_name: str
     
 class ProfileDetails(BaseModel):
